@@ -1,0 +1,45 @@
+<html>
+<title> Unity_in_SCP:SL_and_MER</title>
+<body style="font-family:sans-serif">
+
+<header > 
+<a href="#SCP:SL" style="color:"> Что это такое SCP:SL?</a>
+<br/>
+<a href="#Unity" style="color:"> Что такое Unity?</a>
+<br/>
+<a href="#MER" style="color:"> MER и как он связан с SCP:SL и Unity.</a>
+</header>
+
+<main>
+<h2 style="text-align:center"> Unity в SCP:SL и MER </h2>
+
+<h3 id="SCP:SL" style="text-align:center" > Что это такое SCP:SL?</h3>
+<p> <b>SCP:SL</b> - это бесплатный многопользовательский хоррор, созданный по мотивам вселенной <b>SCP</b>. Эта игра создана создана командой <b>"NW"</b>. Их кстати ненавидет всё комьюнити игры.</p>
+<br/>
+<br/>
+
+
+
+<h3 id="Unity" style="text-align:center"> Что такое Unity? </h3>
+<p> Unity — кроссплатформенная среда разработки компьютерных игр, разработанная американской компанией Unity Technologies. Unity позволяет создавать приложения, работающие на более чем 25 различных платформах, включающих персональные компьютеры, игровые консоли, мобильные устройства, интернет-приложения и другие. Выпуск Unity состоялся в 2005 году и с того времени идёт постоянное развитие.</p>
+<br/>
+<br/>
+
+
+<h3 id="MER" style="text-align:center"> MER и как он связан с SCP:SL и Unity. </h3>
+<p>SCP:SL строится на серверах <b>NONRP</b> и <b>RP</b>. Создатели серверов хотят добавлять в игру <b>свои модельки</b>, но сделать модельку в том же самом <i>Blender</i> - нельзя. Для этого был создан <b>MER</b> где с помощью <i>стандартных примитивов</i> Unity создаются по истине прекрасные модели. Конечно, это будет не сильно деталированная моделька. Но это хоть что то.  </p>
+</main>
+<footer>
+<h4> <b>Ссылки:</b></h4>
+<a href="https://en.scpslgame.com/index.php?title=Main_Page">
+Подробнее о SCP:SL</a>
+
+
+<p><a href="https://ru.wikipedia.org/wiki/Unity_(%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B6%D0%BE%D0%BA)"> Подробнее о Unity </a></p>
+
+<p><a href="https://github.com/Michal78900"> Скачать MER </a></p>
+</footer>
+
+</body>
+
+</html>
