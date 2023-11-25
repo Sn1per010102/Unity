@@ -1,13 +1,13 @@
 <html>
 <title> Unity_in_SCP:SL_and_MER</title>
-<body style="font-family:sans-serif">
+<body style="font-family:Verdana">
 
-<header > 
-<a href="#SCP:SL" style="color:"> Что это такое SCP:SL?</a>
+<header  > 
+<a href="#SCP:SL" style="font-size:13px;color:#171717;" > Что это такое SCP:SL?</a>
 <br/>
-<a href="#Unity" style="color:"> Что такое Unity?</a>
+<a href="#Unity" style="font-size:13px;"> Что такое Unity?</a>
 <br/>
-<a href="#MER" style="color:"> MER и как он связан с SCP:SL и Unity.</a>
+<a href="#MER" style="font-size:13px;color:red"> MER и как он связан с SCP:SL и Unity.</a>
 </header>
 
 <main>
@@ -30,14 +30,17 @@
 <p>SCP:SL строится на серверах <b>NONRP</b> и <b>RP</b>. Создатели серверов хотят добавлять в игру <b>свои модельки</b>, но сделать модельку в том же самом <i>Blender</i> - нельзя. Для этого был создан <b>MER</b> где с помощью <i>стандартных примитивов</i> Unity создаются по истине прекрасные модели. Конечно, это будет не сильно деталированная моделька. Но это хоть что то.  </p>
 </main>
 <footer>
-<h4> <b>Ссылки:</b></h4>
-<a href="https://en.scpslgame.com/index.php?title=Main_Page">
-Подробнее о SCP:SL</a>
+<h5> <b>Ссылки:</b></h5>
+<p><a href="https://en.scpslgame.com/index.php?title=Main_Page" style="font-size:13px;color:#171717;">
+Подробнее о SCP:SL </a>
+<br/>
 
 
-<p><a href="https://ru.wikipedia.org/wiki/Unity_(%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B6%D0%BE%D0%BA)"> Подробнее о Unity </a></p>
 
-<p><a href="https://github.com/Michal78900"> Скачать MER </a></p>
+<a href="https://ru.wikipedia.org/wiki/Unity_(%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B6%D0%BE%D0%BA)" style="font-size:13px;color:blue"> Подробнее о Unity  </a>
+<br/>
+
+<a href="https://github.com/Michal78900" style="font-size:13px;color:red"> Скачать MER </a></p>
 </footer>
 
 </body>
